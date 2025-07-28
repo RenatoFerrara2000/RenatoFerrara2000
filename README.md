@@ -2,12 +2,7 @@
 
 ## 🏆 Swift Student Challenge 2024 Winner | iOS Developer | Accessibility Advocate
 
-I'm a Software Engineer specializing in iOS development, currently in the **Apple Developer Academy Pier Program** where I build innovative apps and mentor aspiring developers. I'm passionate about creating accessible, user-focused applications that make technology inclusive for everyone.
-
-### 🚀 What I'm up to
-- 🍎 Developing iOS apps with SwiftUI at Apple Developer Academy
-- 🌟 Building accessible solutions with machine learning integration
-- 📱 Contributing to apps that educate and empower users worldwide
+I'm a Software Engineer specializing in iOS development. I'm passionate about creating accessible, user-focused applications that make technology inclusive for everyone.
 
 ### 🛠️ Tech Stack
 ```swift
